@@ -1,3 +1,5 @@
+
+
 ---
 
 # 📈 NIFTY-50 Market Intelligence: LSTM Deep Learning Forecast
@@ -82,4 +84,3 @@ This project is for **Educational and Academic Research** only. Stock market pre
 
 ---
 
-**Would you like me to create the `requirements.txt` file content for you as well?**
