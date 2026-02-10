@@ -34,13 +34,13 @@ The project is created for educational purposes to demonstrate how deep learning
 
 ## 📁 Project Structure
 
+```
 nifty-index-prediction-lstm/
-├── app.py # Streamlit application (UI version)
-├── main.py # Core training & prediction script
-├── requirements.txt # Python dependencies
-├── README.md # Project documentation
-
-
+├── app.py               # Streamlit application (UI version)
+├── main.py              # Core training & prediction script
+├── requirements.txt     # Python dependencies
+├── README.md            # Project documentation
+```
 
 
 ---
