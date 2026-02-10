@@ -37,7 +37,6 @@ nifty-prediction-ai/
 ├── app.py               # Streamlit Dashboard UI
 ├── main.py              # Core Training & Logic Script
 ├── requirements.txt     # Dependency Manifest
-└── README.md            # Technical Documentation
 
 ```
 
