@@ -1,5 +1,3 @@
----
-
 ```markdown
 # NIFTY Index Prediction using LSTM Deep Learning
 
@@ -65,8 +63,6 @@ pip install -r requirements.txt
 
 ### 🔹 Option 1: Run with Streamlit (Recommended)
 
-This runs the project with a web interface.
-
 ```bash
 python -m streamlit run app.py
 ```
@@ -77,8 +73,6 @@ python -m streamlit run app.py
 ---
 
 ### 🔹 Option 2: Run in Terminal (No UI)
-
-This runs the core deep learning script.
 
 ```bash
 python main.py
@@ -123,4 +117,5 @@ This approach demonstrates how AI/ML techniques can be applied to financial data
 * Predictions may not reflect real market behavior
 * Focus is on learning deep learning and time-series forecasting
 
----
+```
+```
